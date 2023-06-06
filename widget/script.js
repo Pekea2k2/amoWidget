@@ -1,5 +1,5 @@
 window.reactBaseWidget = {};
-window.reactBaseWidget.sourceUrl = 'http://localhost:8081/';
+window.reactBaseWidget.sourceUrl = 'https://amowidget-ac998.web.app/';
 window.reactBaseWidget.productSysname = 'reactBaseWidget';
 
 define([

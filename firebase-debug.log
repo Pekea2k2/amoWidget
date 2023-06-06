@@ -1,0 +1,25 @@
+[debug] [2023-06-06T11:36:40.781Z] ----------------------------------------------------------------------
+[debug] [2023-06-06T11:36:40.784Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\gluco\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-06-06T11:36:40.784Z] CLI Version:   12.3.0
+[debug] [2023-06-06T11:36:40.784Z] Platform:      win32
+[debug] [2023-06-06T11:36:40.785Z] Node Version:  v18.16.0
+[debug] [2023-06-06T11:36:40.786Z] Time:          Tue Jun 06 2023 14:36:40 GMT+0300 (Восточная Европа, летнее время)
+[debug] [2023-06-06T11:36:40.786Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-06-06T11:36:40.871Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-06-06T11:36:40.872Z] > authorizing via signed-in user (glucosemd@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\gluco\OneDrive\Documente\GitHub\amoWidget
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
